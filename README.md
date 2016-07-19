@@ -1,1 +1,3 @@
 # hello-world
+hello everbody! my name is jackson, though i like to go by jax :)
+i am a golfer, drone enthusiast, and beginning proggramer...
